@@ -6,7 +6,7 @@
     <h2>I am gunmin park<h2>
     <h2>It's working on Tomcat server</h2>
     <h1>Hi I'm gunmin nice to meet you!</h1>
-    <h1>ì•ˆë…•í•˜ì„¸ìš” ì €ëŠ” ê±´ë¯¼ ìž…ë‹ˆë‹¤. ë§Œë‚˜ì„œ ë°˜ê°€ì›Œìš”!</h1>
+    <h1>¾È³çÇÏ¼¼¿ä Àú´Â °Ç¹Î ÀÔ´Ï´Ù. ¸¸³ª¼­ ¹Ý°¡¿ö¿ä!</h1>
     <h1>I'm handsome guy</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
 </body>
